@@ -1,5 +1,5 @@
 # Build your say_hello method here
 
 def say_hello(phrase = "Ruby Programmer")
-  print ("Hello #{phrase}!")
+  "Hello #{phrase}!"
 end
